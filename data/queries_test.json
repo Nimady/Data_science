@@ -1,0 +1,1414 @@
+[
+  {
+    "id": "4ffe16bc-5235-418d-9bf3-22d1f2c5796e_145437",
+    "text": "Why use an interface when the class can directly implement the functions?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "1bb2bb20-7f45-4dcf-a94a-420c454f87b8_56473",
+    "text": "Linux isn't sure whether a file exists or not",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "6a9a342c-1275-4bb3-a818-8bcce53fac4f_34507",
+    "text": "Will my Android device change to Gingerbread when I factory reset it?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "cb216e47-add6-41fd-974a-39251e4df3aa_6777",
+    "text": "How to clean up file extensions?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "14f1d3f5-8271-400e-9ef2-8319de25c9a1_200748",
+    "text": "Cancelling in a Fraction",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "9ceab16a-79cf-4523-8846-ef2f9bbf2aad_40876",
+    "text": "How to get rid of the \"In:\" prefix in some bibliography entries using BibLaTeX?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "6ca71ddc-5bbf-4643-b789-6b5401e7673f_16078",
+    "text": "How to force Gmail/Android to request password every time for google account",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "4b5622f5-566f-4dfa-b83a-f1b646381c06_186377",
+    "text": "Developers taking code home - how bad is it?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "009b1511-1254-4ee9-b697-f219d2c0bf4a_111002",
+    "text": "What's the difference between $$ $$ and \\begin{equation} \\end{equation}?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "6cb18019-528d-4b41-ba49-1d92e4edbab2_9944",
+    "text": "What is the difference between software engineer and software developer?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "47036274-17b4-40cd-a873-59447852e4ef_131089",
+    "text": "How to install pgfplots in Ubuntu 12.04.3 LTS?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "3c5b9a4b-7d40-45ef-85a1-d1324ead58fa_2053",
+    "text": "change font of certain part of the text",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "84e9ee08-003d-4610-be67-11aeb4bf4244_136634",
+    "text": "What degree of mathematical knowledge should a programmer have?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "16a976ca-ac91-4176-8f8c-a04589fcb6f1_68841",
+    "text": "Bold symbols for Greek letters",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "d5d51a2a-18a6-4046-b8f8-646b568f9529_55546",
+    "text": "Removing Color Codes From Output",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "df788da1-6d01-444f-8243-8dfcd85d4162_31901",
+    "text": "How to set security options to create PDF using pdflatex",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "7dc7d3ff-a327-4c5f-8900-0635ec1374f0_30487",
+    "text": "Develop Java Swing Applications  on Android",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "72dbee1d-657b-4616-a0da-5bdbd898c0b1_165832",
+    "text": "Minecraft multiplayer: how to get rid of a bunch of ender dragons",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "9caaf10c-64b2-4e6c-b8c7-9acdbf9dd4c1_34047",
+    "text": "How do I ward properly in League of Legends?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "dd6af12e-400a-4432-849d-1b375265e713_127801",
+    "text": "Sections without numbers",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "dba35d8c-d85a-40b9-86e1-4fba345aee90_74139",
+    "text": "conditional usepackage given documentclass",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "472824ac-5cd5-40a7-9eb9-fdcfbb5e7814_13738",
+    "text": "Circle around symbol",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "cf27172c-fef6-49a5-9bfb-ff2d6dfba663_48839",
+    "text": "SMS converts to MMS and only sends when data mobile is on",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "41550647-a430-446a-ab7c-2937ec583008_42030",
+    "text": "Can I backup and restore my Skyrim saves if I plan on installing a new OS?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "f0953dfb-4d45-4728-b24d-9690052e0ca8_94138",
+    "text": "Highlighting modifications in a .tex file using Kile editor",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "4b1aa842-e9b6-4553-a954-87582ec5149f_159438",
+    "text": "Package hyperref Warning: Token not allowed in a PDF string",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "1d7d3b57-42dc-4d22-a980-2548af334007_120004",
+    "text": "Is it possible to create a PDF document of undefined, variable height with Latex?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "83ee4d2a-540b-48eb-a93c-e3040b17b421_141952",
+    "text": "no space between words in equation",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "8b857929-4544-48aa-9ee9-85f31a38ef10_17816",
+    "text": "Commenting out large sections",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "b8f15c31-8008-4dfc-be0b-2bfef2fcde4f_82280",
+    "text": "Error in installing packages",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "92df06cf-5221-4ea6-83d9-7f76dbcdf862_148515",
+    "text": "WYSIWYG LaTeX table editor",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "fe62408b-c718-4205-8f65-161d90c8cece_42910",
+    "text": "Why was I allowed to loot the Invarstead inn?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "21e8deec-77b4-429e-8129-6b4ac59d85ea_183174",
+    "text": "Mod installation",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "2726b4f3-f535-43ec-a71d-3e770d987325_246354",
+    "text": "What are the benefits of learning an old programming language?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "742f6bb2-0869-4709-9077-0bb3722dd94f_118064",
+    "text": "Is it necessary to know and understand design patterns in order to be a professional programmer?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "6305d619-ec5d-4a92-9159-8fd0c8ce3aad_14662",
+    "text": "minimal hardware requirements for Android",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "3965d547-3f4e-48f8-a5e5-7bc9c735c87c_174488",
+    "text": "Why `\\\\` is wrong here?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "4a048f30-6139-48a6-bd2d-2f20828b77b7_26690",
+    "text": "How to add extra spaces between rows in tabular environment?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "b7a4c868-a2e6-4892-b839-b8ba435f7880_132067",
+    "text": "footnote won't show up in my document",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "2b7d8c38-83a1-4954-a715-2e7128bdd9ca_28267",
+    "text": "what does \"serial=${serial##*.}\" do?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "d2f62059-b37d-4ef3-8d25-4f4283bdb466_85678",
+    "text": "insert text in a file using echo command",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "aff2f7b3-f6c4-490a-bee8-217174ab9f9e_220872",
+    "text": "Structured code vs Duplicate code. Modifiability",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "67910e59-39c1-42c0-8974-379596e81aba_10670",
+    "text": "Quotes in LaTeX ?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "7f0d1497-8bbb-47e4-bb1e-61da05440e42_92809",
+    "text": "What are the numbers after program names in Linux/GNU documentation?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "b99bab3e-a2e9-4112-8357-430cbad01db8_125887",
+    "text": "Trying to get tikz-cd going",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "bac0fd0b-e03a-4b4b-ab00-3bb2d5323689_157312",
+    "text": "How can I use align inside itemize without a newline?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "7fd10d1b-a322-4f0a-9ad2-cc1ad62219a4_22742",
+    "text": "How do I override the \\item spacing",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "e90ae065-1c1b-48d0-876d-0d2e27066690_25693",
+    "text": "How to have a long Standby and Battery -life?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "d5a2a0a7-b27e-4113-853b-2d03599be45e_3522",
+    "text": "Conditionally include a package",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "bd53ccd8-7e31-40c8-9792-a47aa5691cb0_21119",
+    "text": "Is it ok to charge my Nexus S with an iPhone power adaptor?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "a53a8185-05ef-4016-8f3b-ac07c624d642_14426",
+    "text": "Screen recording tool for the samsung galaxy tab",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "44a86f98-12b7-4a4b-aa01-12ef6440117d_10515",
+    "text": "Converting pdf to LaTeX?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "b13578bd-e1f5-4aab-bdc2-1bf84b0ea1d2_137211",
+    "text": "What use are Chocolate Bars",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "d9e86581-0b38-4d2e-ad03-c4a76f2137ed_198995",
+    "text": "Evaluate one's skill and improve it?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "6fc95e58-97e4-4b6e-8e6e-7a7ade2883d5_18504",
+    "text": "Can I connect a wireless Xbox 360 controller to PC with a play & charge cable?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "457d107b-0cf0-4a7c-b2f9-63926bb710ef_801",
+    "text": "What is the difference between jailbreaking and unlocking an Android?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "328b6d12-6289-46ec-b6c0-6be446e12d74_42934",
+    "text": "Is there a package for segmenting a large TeX document so that the PDF can be downloaded in installment?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "69d3418a-c3c8-47d6-ab04-a9e1be9ce5a2_147878",
+    "text": "Follower Missing in Skyrim",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "e6ac9aab-0f8d-468c-aca7-b7e04548f4bc_87633",
+    "text": "Physical host or VM",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "2929181e-5c7c-4eee-9d66-9eaa914eebfe_107168",
+    "text": "What's the practical difference between `command` and $(command)?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "b752dae2-a037-4c62-bf4f-50ec106e9a30_3742",
+    "text": "Is it possible to upgrade my HTC Legend to Froyo without waiting for over the air updates?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "f74b054e-b5e2-4330-b5e8-29bf656dbd5c_31301",
+    "text": "How to reduce the number of hyphenation?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "089a187b-8bbd-4fc5-af8f-79b3c2c0e0ed_206254",
+    "text": "Difference between a server and a client",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "7ad8d980-c6ce-43a5-a9af-3a8e5f1defa6_52463",
+    "text": "install package on linux",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "62c94d62-f839-4ad9-832b-7a48bf06e88e_210623",
+    "text": "GPLv3 licensing and Software-as-a-Service web apps",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "36d149e0-3b32-47e4-9da6-770b6be84ac2_104037",
+    "text": "Smart casting better then normal casting?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "8c532563-a396-4e09-8359-39a23c4c1174_39349",
+    "text": "Automatically inserting \"Section\", \"Subsection\", etc",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "efd261f9-6aee-426e-a111-503120b649e6_82227",
+    "text": "Programming practice - Is there a site that has a daily \"write a method to do X\" type challange?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "5df14527-c4f0-4f1e-beaa-9665395e5d26_152872",
+    "text": "LaTeX Warning: Citation `foo' on page N undefined on input line XX",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "d1996f82-6c05-403d-a373-e51441d0caae_120294",
+    "text": "How can I use a curly brace together with subequations?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "dff39db2-5911-4b5e-af52-bfc87b029a5c_49058",
+    "text": "Shouldn't there be more RAM free than this?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "a1b2daf9-52f2-44bd-9f1b-b7bb21cee028_10474",
+    "text": "LaTeX baffled by BOM---Unicode's byte order mark.",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "f6c097dd-d8ba-4d18-907e-164041f3833b_9325",
+    "text": "Bump right-aligned text to next line if no room",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "db43d936-3326-44f9-b5e4-c64fea81acac_49924",
+    "text": "TeX fonts in Windows",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "688559a5-2ef6-4553-b133-8dccedc51585_83355",
+    "text": "Prevent figures from breaking lists, paragraphs and stay in current section",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "f095df79-6066-46cf-9fd1-8ea342f8ee44_14218",
+    "text": "Proper style macros.",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "b8c5ee3f-9d33-4237-bf93-b2500ca529ab_834",
+    "text": "How do I remove HTC Desire pre-installed Android applications?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "b499dfb7-7311-4d6a-839b-c63973be802d_56258",
+    "text": "Application downloading error (919)",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "992e110c-5959-4f45-bdba-1ca36af0f5ec_69480",
+    "text": "Why is an android ROM device specific?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "15cbe443-ced1-4c14-bf5b-82d001f282ce_156463",
+    "text": "Biber Installation Corrupted?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "c97d73ef-1f2c-4504-8f5a-b227a167ba56_4144",
+    "text": "How to have correct permissions of files from usb disks?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "a5c7d5ac-69c1-4c44-a301-df5b27b3fa6e_179089",
+    "text": "How to make an image occupy the remaining white space on a page?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "9441a973-c4a8-4168-ae59-0d84fd686be0_50040",
+    "text": "How to install games from APK Mania on MicroSD Card",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "3c645991-fe97-41c8-b021-a804160ffc46_140509",
+    "text": "How to create an alert box with a figure to the left?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "34fd1c44-93e0-45cd-8bed-7fc6bec4de81_111881",
+    "text": "How much do i need to learn in order to get an entry level asp.net job?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "2f8dc8fa-eacb-4015-b847-14c385b35070_74798",
+    "text": "Apps which change region in google play store",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "d2dba823-a821-494a-9600-6798a53cb045_108222",
+    "text": "Linux - Sending a command to a screen through a shell script?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "46a80480-2c54-480a-8edf-71abcbdb58fe_80543",
+    "text": "Faralda is not at the college",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "a404960c-0e33-4426-a219-978ae5c8263f_154847",
+    "text": "Enumerate not to reset counter (resuming enumerate counter)",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "79da58dd-19e2-4eca-9a28-fe20834db641_128321",
+    "text": "long title in table of contents",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "a3278c66-6805-44cb-be54-a5c448fdf82a_24570",
+    "text": "Why do phones have default limited user rights (not rooted)?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "b90ce5eb-1b47-4b6a-abc2-37ca557ac7b4_40067",
+    "text": "Numbering Sections with Sequential Integers",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "fee5a328-b044-4e02-9841-d9b681f5cc20_148353",
+    "text": "Show error messages and information that a program was killed on another terminal",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "4a62d727-19a2-4da3-a937-e915f69d0995_79425",
+    "text": "Included pdf (wallpaper, or includegraphics) has different colors",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "de3ebf94-4fd4-4c40-8fef-93e8b0ed1a3c_3955",
+    "text": "Is there a site where I can enter a latex expression, and it shows me an image of the compiled expression?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "82c32d02-e7d0-41bb-9906-1930448de877_102077",
+    "text": "How to center align the whole table?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "598abb70-b774-468a-a93e-cf71dbb13847_58798",
+    "text": "Configuring latex to use serif font by default when in math mode",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "03820802-f5d6-4ad9-a97d-3ad76dbc6a73_191759",
+    "text": "Can a developer perform testing efficiently?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "3b70128d-2743-407e-8da3-f003d9cad3fd_3645",
+    "text": "How can I check which shell I am currently using?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "bbab5190-3018-4401-a21b-c3b6723efaf3_27841",
+    "text": "How to make \"notify-send\" work from daemon application",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "c4846b8b-159a-4740-b00c-904d735e033a_206816",
+    "text": "Clarification of \"avoid if-else\" advice",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "86b3d8ae-0bab-49f0-ab53-0164139aef75_164982",
+    "text": "XeTeX and miriad \"Missing character\" messages in log file",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "3f53eba7-35f3-4d74-8ff9-bdc6836e5245_195337",
+    "text": "Is there any difference between pointers and references?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "ff306696-6da2-4c8a-b414-8e1e973201ca_89262",
+    "text": "How to adapt a Linux like fedora, ubuntu etc. to make my own linux distro?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "2faee031-bd98-4197-81a7-e4ee531ef6f3_81023",
+    "text": "Which tool can tell me the distribution of Linux that is running when uname is generic?",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "ff9dce29-4453-4370-ac39-732b26b21f13_56477",
+    "text": "Can you screen save on a Nexus 4?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "fdecbd48-b1d1-40a1-a0d8-cd1f3ed80d69_137456",
+    "text": "Adding to a pdf file the LaTeX code to generate it",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "a88b507a-d1ad-47f4-a0fc-39bd3046888b_14364",
+    "text": "Cross-referencing between different files ",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "22c2ab21-f3c2-4f50-8fee-b534b9822197_54959",
+    "text": "How do I know when my development skills are good enough for a real job?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "ac39729f-c904-4127-969b-c79bb382f379_173151",
+    "text": "Something buggy between tcolorbox and invoice packages",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "ba0757d4-3b03-4007-9e3d-42844264259d_71427",
+    "text": "Does everyone in the party get the same item drop?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "7cd22ff9-7c9c-4091-91e0-2e131cb115da_2297",
+    "text": "Can't include a picture in pdf using \\includegraphics command",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "955d0bcd-6c51-4a16-b93e-88bfa3d6ff13_6817",
+    "text": "Insert graphic at precise place on a page",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "f6d67608-e863-41be-a7dc-47d3d3be8524_54175",
+    "text": "How can I download apps from Google Play to my Tab using my PC's Internet connection?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "8de9bb65-94c4-4321-bf7d-45bde732c59f_195456",
+    "text": "What is the LaTeX command or package that allows one to include command line examples in their document?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "9295f2a9-81aa-4257-9633-c66d6450b9c2_46552",
+    "text": "Copy contacts from iCloud to Android phone",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "7ce5d59e-35f7-4f01-bfe5-0076f7ebb67e_65097",
+    "text": "THE resource for rooting your phone?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "1a8d806d-9e31-4bd2-a0ce-fed45a842a7c_160549",
+    "text": "Compiling Legrand Orange Book template",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "6bb59aed-94cf-419a-868b-d918f9734880_168544",
+    "text": "How to get these symbols in LaTeX?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "cd2f6400-7baf-47bb-8373-50ca084981b2_17489",
+    "text": "Change caption name of figures",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "0e21f0e2-da19-4859-b2e9-a104af75d040_194507",
+    "text": "Includegraphics detects wrong fileformat",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "5c9f1bfc-5bfd-4cd7-ac53-1510897bcd8e_200362",
+    "text": "Does dedicated maintenance work hamper a programmer's career?",
+    "title": "",
+    "tags": [
+      "web-development",
+      "python",
+      "sql",
+      "concurrency",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "d30e4a90-1b72-4992-93d6-4a422931693f_86221",
+    "text": "How to force the text to enter into a single page",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "3b3fd656-dce6-4f62-b395-dacf5b80b623_71424",
+    "text": "get rid of the number of nonreferred equations",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "253206e5-c147-4405-b582-1dc4e044b6ce_147658",
+    "text": "Where is Realms icon for 0.8.1?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "59fa1d8b-06de-46c2-8f76-7e4aac981136_5226",
+    "text": "Keyboard Font for LaTeX",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "c1f55372-cbe5-4f90-a290-633e32aa094a_17263",
+    "text": "Launching application from terminal",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "50e29581-a879-4123-b6a6-584603320571_148",
+    "text": "Avoiding jumping frames in beamer",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "b864608a-4205-4831-9cf3-9692c339f600_65625",
+    "text": "Disadvantages of taking follower with you",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  },
+  {
+    "id": "c349b5e9-301f-4dfa-9018-b10dad047adf_128060",
+    "text": "finding specific path for an installed program",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "c5db6496-e377-45bb-a282-188ddbe293af_125850",
+    "text": "changing the names of files within a directory",
+    "title": "",
+    "tags": [
+      "shell",
+      "virtualization",
+      "storage",
+      "cluster"
+    ]
+  },
+  {
+    "id": "9d2bfe27-47c0-49e8-9cd6-fd39802344f8_9253",
+    "text": "slashbox alternative",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "5961d629-54e6-4082-a5fb-6fcf35a06a1b_75755",
+    "text": "Android Play store",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "33947617-6e48-44e0-ba4a-e7b57c1325af_120201",
+    "text": "Adding a cover image to an existing pdf file breaks th links of the original pdf",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "4041eded-150c-4493-950a-240c80054cb7_72943",
+    "text": "Does an android phone unroot itself on factory reset?",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "2496e470-68f6-4d9f-b2dc-4526d72af391_26238",
+    "text": "SMS thread retrieval",
+    "title": "",
+    "tags": [
+      "linux",
+      "development"
+    ]
+  },
+  {
+    "id": "2af1cd5c-8e8e-4a0d-9989-6fd3c8173036_32174",
+    "text": "Listings package: How can I format all numbers?",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "6ab209b3-ffb9-4546-a246-9e4c3ffde2e1_16701",
+    "text": "Paragraph spacer: blank line and no indent, instead of indent",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "377d2905-9f52-4781-ba01-3077437dc520_101367",
+    "text": "TimesNewRoman font in Latex",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "140f3e16-f5e8-4fc2-aa20-56a4dc463444_87034",
+    "text": "How to search for the commands in TeX",
+    "title": "",
+    "tags": [
+      "tikz-pgf",
+      "horizontal-alignment",
+      "tikz-trees"
+    ]
+  },
+  {
+    "id": "094b3517-f7ba-4b68-abfa-d38fd988e634_392",
+    "text": "How can I record demos of my gameplay?",
+    "title": "",
+    "tags": [
+      "skyrim"
+    ]
+  }
+]
